@@ -1,0 +1,12 @@
+- key: config
+  value: |-
+    {
+      "name": "swagger",
+      "favicon": "https://www.ovhcloud.com/fr/favicon.ico",
+      "openAPI": [
+        {
+          "name": "Pet",
+          "URL": "https://petstore.swagger.io/v2/swagger.json"
+        }
+      ]
+    }
